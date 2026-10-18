@@ -1,1 +1,2 @@
-<img width="1061" height="607" alt="Ảnh chụp màn hình (47)" src="https://github.com/user-attachments/assets/3dcd0045-589a-4e4f-b4d4-021d066a10da" />
+<img width="722" height="640" alt="bài 2" src="https://github.com/user-attachments/assets/1373b545-c7ac-43dd-aa20-653f35412f13" />
+
